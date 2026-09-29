@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+artifacts/
+data/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+secrets/
+*.pcap
+*.pcapng
+*.key
+*.pem
